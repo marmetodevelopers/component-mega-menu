@@ -30,7 +30,7 @@ Read and understand the implementation steps for the mega menu element for the s
 	- 1.1 In your header component, link a main menu accordingly to the project requirement.
 	- 1.2 This section is lazy loaded and will link to the header menu if the header menu has child links (1st level links). For example in the preview link, the main menu has 'shop' mega menu. So for this 'shop' navigation link to have a mega menu linked, we need to add a child link as a placeholder so that the mega menu section has a base to get linked. Please refer the main menu screenshot below.
         - ![Screenshot (237)](https://github.com/marmetodevelopers/component-mega-menu/assets/155415315/8d7fd401-004b-4076-9742-ed5dfef45514)
-        - Once this is done, the backend implementation for the mega menu is completed!
+        - 1.3 Once this is done, the backend implementation for the mega menu is completed!
 
   - ### Step 2: Lazy loaded section implementation
 	- 2.1 global.js - copy/paste the code for the lazy section custom element from line 1836 to line 1943 into your global.js file in your theme!
