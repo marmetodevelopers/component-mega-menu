@@ -37,7 +37,7 @@ Read and understand the implementation steps for the mega menu element for the s
  	- 2.2 lazy-load-section-validations.liquid snippet -  Create/Add a new snippet file under the snippets folder and copy/paste the code from 'lazy-load-section-validations.liquid'
   	- 2.3 settings_schema.json - Add line 10 to 56 into your settings_schema.json file in your theme!
 
-  - ### Step 3: Lazy loaded section implementation
+  - ### Step 3: Frontend implementation
 	- 3.1 header.liquid section - Add line 180 to 188 into your header.liquid file in your theme! (This is done to initalize the mega menu usage)
  	- 3.2 header-mega-menu.liquid snippet - Create/Add a new snippet file under the snippets folder and copy/paste the code from 'header-mega-menu.liquid'
   	- 3.3 megamenu-item-demo-1.liquid section - Create/Add a new section under the section folder and copy/paste the code from 'megamenu-item-demo-1.liquid'
